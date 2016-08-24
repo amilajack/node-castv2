@@ -1,8 +1,8 @@
 {
-  "name": "castv2",
+  "name": "castv2-webpack",
   "version": "0.1.9",
   "description": "An implementation of the Chromecast CASTV2 protocol",
-  "author": "thibauts",
+  "author": "Amila Welihinda",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
